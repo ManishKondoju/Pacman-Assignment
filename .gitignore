@@ -1,0 +1,3 @@
+pacman_dqn_env/
+*.pth # Optional: ignore trained models
+__pycache__/

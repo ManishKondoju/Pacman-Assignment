@@ -1,0 +1,6 @@
+gymnasium[accept-rom-license]
+ale-py
+torch
+numpy
+opencv-python
+matplotlib
